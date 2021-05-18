@@ -1,2 +1,2 @@
-# AgendaTelefonica
-Agenda Telefónica usando DAO, Servlets, JSP, JSTL
+# AgendaTelefonicaServletsJEEAPSDis
+Trabajo de aplicaciones distribuidas de java arquitectura DAO, MVC, JDBC
